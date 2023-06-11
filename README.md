@@ -1,3 +1,5 @@
+***This is a "fork" of [instagram-daily-duck](https://github.com/ghrlt/instagram-daily-duck)***
+
 # Instagram Story Daily Cat
 Wanna post a cat everyday in your Instagram story? This repo is made for you!
 
